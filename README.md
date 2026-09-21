@@ -35,7 +35,7 @@ Minha trajetória me ensinou a pensar de forma lógica, estruturada e focada em 
 ### 🤝 Vamos nos conectar?
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/maycowgrummt" target="_blank">
+  <a href="https://www.linkedin.com/in/maycow-grummt/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
