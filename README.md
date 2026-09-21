@@ -26,8 +26,11 @@ Minha trajetória me ensinou a pensar de forma lógica, estruturada e focada em 
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=maycowgrummt&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maycowgrummt&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maycowgrummt&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maycowgrummt&layout=compact&theme=vue-dark" alt="Top Languages" />
 </p>
 
 ---
